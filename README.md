@@ -2,11 +2,11 @@
 
 Meu nome e Daniel
 
-- Estou estudando programacao
+- Estou estudando programação
 
-- Estou no 3 ano do ensino medio
+- Estou no 3 ano do ensino médio
 
-- Uso esse espaco para compartilhamento dos meus projetos
+- Uso esse espaço para compartilhamento dos meus projetos
 
 ## Voce poede entrar em contato comigo por 📧
 
